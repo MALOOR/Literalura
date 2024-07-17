@@ -12,7 +12,7 @@
 
 ## Descripción del Proyecto ⭐
 
-- Realizar consultas CRUD.
+- Realizar la busqueda de libros a traves del uso de la Api Gutendex.
 
 ## Estado del Proyecto ⭐⭐
 
